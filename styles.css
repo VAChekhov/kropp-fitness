@@ -414,7 +414,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   height: 100%;
   aspect-ratio: 1;
-
+  background: url('./icons/arrow-top-right.svg') center/70% no-repeat;
   border: var(--border);
   border-radius: 50% ;
 }
