@@ -17,7 +17,7 @@
 
 ## 📸 Превью
 
-![](screenshot.png)
+![](/screenshot.png)
 
 ---
 
