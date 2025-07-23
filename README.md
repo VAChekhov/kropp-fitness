@@ -17,7 +17,7 @@
 
 ## 📸 Превью
 
-![](kropp-fitness/screenshot.png)
+![](screenshot-1.png)
 
 ---
 
